@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nachid Hamza</h1>
 <h3 align="center">Software enginering</h3>
 
-<p align="left"> <a href="https://twitter.com/hamza nachid" target="blank"><img src="https://img.shields.io/twitter/follow/hamza nachid?logo=twitter&style=for-the-badge" alt="hamza nachid" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hamzanachid1" target="blank"><img src="https://img.shields.io/twitter/follow/hamza nachid?logo=twitter&style=for-the-badge" alt="hamza nachid" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs,Nodejs**
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hamza nachid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza nachid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamza nachid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza nachid" height="30" width="40" /></a>
+<a href="https://twitter.com/hamzanachid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza nachid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamza-nachid-56a427212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza nachid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

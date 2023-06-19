@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nachid Hamza</h1>
-<h3 align="center">Software enginering</h3>
+<h3 align="center">Software engineering</h3>
 
 <p align="left"> <a href="https://twitter.com/hamzanachid1" target="blank"><img src="https://img.shields.io/twitter/follow/hamza nachid?logo=twitter&style=for-the-badge" alt="hamza nachid" /></a> </p>
 

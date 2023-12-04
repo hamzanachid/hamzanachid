@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/hamzanachid1" target="blank"><img src="https://img.shields.io/twitter/follow/hamza nachid?logo=twitter&style=for-the-badge" alt="hamza nachid" /></a> </p>
 
-- 🌱 I’m currently learning **Redux,Redux-saga**
+- 🌱 I’m currently learning **Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamzanachid?tab=repositories](https://github.com/hamzanachid?tab=repositories)
 
-- 💬 Ask me about **java,python,databases,js,ts**
+- 💬 Ask me about **java,python,databases,js,t**
 
 - 📫 How to reach me **hamzanachid82@gmail.com**
 
